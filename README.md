@@ -1,0 +1,3 @@
+# Metrobus Reforma impact on traffic flow
+
+This project analyzes Uber Movement data among other datasets to measure the impact of Mexico City's BRT system seventh line -known as Metrobus Reforma- on the average travel times between the Geoestatistical Basic Areas within it's area of influence. It uses the Synthetic Control methodology to estimate the treatment effect of the implementation of this particular Metrobus line on travel times.
