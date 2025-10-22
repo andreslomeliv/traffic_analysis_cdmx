@@ -1,0 +1,1 @@
+Los datos crudos son demasiado grandes para subirlos a GitHub. Para más información favor de contactarme.
