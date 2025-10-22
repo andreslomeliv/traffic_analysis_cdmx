@@ -2,5 +2,5 @@ bibliografia
 .env
 .ipynb_checkpoints
 venv/
-vialidades_cdmx/
-datos_uber_movement/raw_data/
+vialidades_cdmx/*
+datos_uber_movement/raw_data/*.zip

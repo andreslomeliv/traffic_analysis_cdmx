@@ -1,0 +1,10 @@
+pandas==2.0.3
+numpy==1.25.2
+INEGIpy==1.2.1
+geopandas==0.14.0
+shapely==2.0.1
+folium==0.14.0
+matplotlib==3.7.2
+seaborn==0.12.2
+adjustText==0.8
+
